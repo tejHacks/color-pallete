@@ -36,6 +36,7 @@ The **Color Palette Generator** is a simple and interactive web tool that genera
 ## Project Structure
 ```
 color-palette-generator/
+|__font-awesome/ #folder for font awesome files
 │── index.html       # Main HTML file
 │── style.css        # Stylesheet
 │── script.js        # JavaScript functionality
